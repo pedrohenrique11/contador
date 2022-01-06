@@ -1,4 +1,3 @@
-
 var numeroTag = document.getElementById('number')
 var numero = 0;
 
